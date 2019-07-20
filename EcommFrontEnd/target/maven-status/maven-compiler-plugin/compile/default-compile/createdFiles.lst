@@ -1,0 +1,7 @@
+com\niit\EcommFrontEnd\Controller\LoginController.class
+com\niit\EcommFrontEnd\Controller\UserController.class
+com\niit\EcommFrontEnd\Controller\CartController.class
+com\niit\EcommFrontEnd\Controller\HomeController.class
+com\niit\EcommFrontEnd\Controller\ProductController.class
+com\niit\EcommFrontEnd\Controller\AddressController.class
+com\niit\EcommFrontEnd\Controller\CategoryController.class
